@@ -1,0 +1,82 @@
+Release 14.7 - xst P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/utp/Desktop/procesador3/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.23 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/utp/Desktop/procesador3/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.23 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/Miprocesador2 is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/Miprocesador2.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/Miprocesador2.vhd".
+WARNING:HDLParsers:3607 - Unit work/Miprocesador2/arquitectura_Miprocesador2 is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/Miprocesador2.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/Miprocesador2.vhd".
+WARNING:HDLParsers:3607 - Unit work/alu is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/alu.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/alu.vhd".
+WARNING:HDLParsers:3607 - Unit work/alu/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/alu.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/alu.vhd".
+WARNING:HDLParsers:3607 - Unit work/flip1 is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/flip1.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/flip1.vhd".
+WARNING:HDLParsers:3607 - Unit work/flip1/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/flip1.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/flip1.vhd".
+WARNING:HDLParsers:3607 - Unit work/flip2 is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/flip2.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/flip2.vhd".
+WARNING:HDLParsers:3607 - Unit work/flip2/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/flip2.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/flip2.vhd".
+WARNING:HDLParsers:3607 - Unit work/instructionMemory is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/instructionMemory.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/instructionMemory.vhd".
+WARNING:HDLParsers:3607 - Unit work/instructionMemory/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/instructionMemory.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/instructionMemory.vhd".
+WARNING:HDLParsers:3607 - Unit work/modPsr is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/modPsr.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/modPsr.vhd".
+WARNING:HDLParsers:3607 - Unit work/modPsr/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/modPsr.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/modPsr.vhd".
+WARNING:HDLParsers:3607 - Unit work/mux is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/mux.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/mux.vhd".
+WARNING:HDLParsers:3607 - Unit work/mux/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/mux.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/mux.vhd".
+WARNING:HDLParsers:3607 - Unit work/psr is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador3/psr.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/psr.vhd".
+WARNING:HDLParsers:3607 - Unit work/psr/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador3/psr.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/psr.vhd".
+WARNING:HDLParsers:3607 - Unit work/registerFile is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/registerFile.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/registerFile.vhd".
+WARNING:HDLParsers:3607 - Unit work/registerFile/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/registerFile.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/registerFile.vhd".
+WARNING:HDLParsers:3607 - Unit work/seu is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/seu.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/seu.vhd".
+WARNING:HDLParsers:3607 - Unit work/seu/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/seu.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/seu.vhd".
+WARNING:HDLParsers:3607 - Unit work/sumador is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/sumador.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/sumador.vhd".
+WARNING:HDLParsers:3607 - Unit work/sumador/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/sumador.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/sumador.vhd".
+WARNING:HDLParsers:3607 - Unit work/uc is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/uc.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/uc.vhd".
+WARNING:HDLParsers:3607 - Unit work/uc/Behavioral is now defined in a different file.  It was defined in "C:/Users/Martinez/Desktop/procesador2/uc.vhd", and is now defined in "C:/Users/utp/Desktop/procesador3/uc.vhd".
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/sumador.vhd" in Library work.
+Architecture behavioral of Entity sumador is up to date.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/flip1.vhd" in Library work.
+Architecture behavioral of Entity flip1 is up to date.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/flip2.vhd" in Library work.
+Architecture behavioral of Entity flip2 is up to date.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/instructionMemory.vhd" in Library work.
+Architecture behavioral of Entity instructionmemory is up to date.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/uc.vhd" in Library work.
+Architecture behavioral of Entity uc is up to date.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/registerFile.vhd" in Library work.
+Architecture behavioral of Entity registerfile is up to date.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/mux.vhd" in Library work.
+Architecture behavioral of Entity mux is up to date.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/seu.vhd" in Library work.
+Architecture behavioral of Entity seu is up to date.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/alu.vhd" in Library work.
+Entity <alu> compiled.
+Entity <alu> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/modPsr.vhd" in Library work.
+Entity <modpsr> compiled.
+Entity <modpsr> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/psr.vhd" in Library work.
+Architecture behavioral of Entity psr is up to date.
+Compiling vhdl file "C:/Users/utp/Desktop/procesador3/Miprocesador2.vhd" in Library work.
+Architecture arquitectura_miprocesador2 of Entity miprocesador2 is up to date.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.48 secs
+ 
+--> 
+
+Total memory usage is 188620 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   25 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
