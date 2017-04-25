@@ -1,0 +1,31 @@
+Command line:
+   tsMiprocesador2_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  55426
+
+Tue Apr 25 17:39:47 2017
+
+
+ Elaboration Time: 0.031201 sec
+
+ Current Memory Usage: 670.282 Meg
+
+ Total Signals          : 70
+ Total Nets             : 1549
+ Total Signal Drivers   : 16
+ Total Blocks           : 17
+ Total Primitive Blocks : 15
+ Total Processes        : 14
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 1928
+Total Line Count : 116
+In process instructionMemory.vhd:64 
+ 
+
+ Total Simulation Time: 0.031201 sec
+
+ Current Memory Usage: 986.427 Meg
+
+Tue Apr 25 17:40:45 2017
+
